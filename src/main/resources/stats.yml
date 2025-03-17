@@ -1,0 +1,8 @@
+"file-version": 1
+
+players:
+  "uuid":
+    "kills": 1
+    "deaths": 1
+    "kill_streak": 3
+    "max_kill_streak": 4
