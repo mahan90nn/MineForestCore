@@ -1,13 +1,13 @@
-name: Core
+name: infiniteCore
 description: ${project.description}
-version: ${project.version}
+version: 1.0.1
 main: in.mineforest.core.paper.PaperEngine
-author: ${author}
+author: StableMC/mahan90nn
 api-version: "1.13"
 depend: [LuckPerms]
 softdepend: [PlaceholderAPI]
 commands:
   forward_command:
-    description: Executes a command when the player is forward facing
+    description: Executes a command when A player is forward facing
     usage: /forward_command <command>
     permission: forward_command.use
