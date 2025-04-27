@@ -8,7 +8,7 @@ database:
   password: ""
 
 report:
-  webhook: "https://discordapp.com/api/webhooks/1324424462615052318/7H9xISASdYl70GnZuXD2Or4Ll0pqyP7kfspNpmazm3BpP5lc8ZckeHisqmCOzsIsfwLs"
+  webhook: "https://discord.com/api/webhooks/1365981829085266060/RYQtBqd_UcND29h5gVor2J05dBs7RfpZVXuyIw00EJiX8PPcLjilioZFxoniW6"
   types:
     CHEATING:
       description: "Using hacks, mods, or exploits to gain an unfair advantage."
